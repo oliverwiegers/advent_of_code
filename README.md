@@ -35,4 +35,5 @@ python3 solve.py
 
 ## Thanks
 
-Huge thanks to @topaz for creating and maintaining Advent of Code :)
+Huge thanks to [Eric Wastl](https://github.com/topaz) for creating and
+maintaining Advent of Code :smiley:
