@@ -10,14 +10,14 @@ def main():
         lines = file.read()
         elves = lines.split("\n\n")
         # puzzle 01 was:
-        #print(
+        # print(
         #    max(
         #        [
         #            sum([int(x) for x in elf.split("\n")])
         #            for elf in list(filter(None, elves))
         #        ]
         #    )
-        #)
+        # )
         print(
             sum(
                 sorted(
