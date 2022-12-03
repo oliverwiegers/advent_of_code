@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-import string
-
 
 def divide_groups(listing, length):
     """
