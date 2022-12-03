@@ -45,4 +45,4 @@ maintaining Advent of Code :smiley:
 - [Advent Of Code Data](https://github.com/wimglenn/advent-of-code-data)
 - [AoC 2022 auto solver](https://github.com/ostwilkens/aoc2022)
 - [Going Fast In Advent Of Code](https://kevinyap.ca/2019/12/going-fast-in-advent-of-code/)
-- [Awesome Advent Of Code](https://kevinyap.ca/2019/12/going-fast-in-advent-of-code/)
+- [Awesome Advent Of Code](https://github.com/Bogdanp/awesome-advent-of-code)
