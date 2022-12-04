@@ -19,6 +19,8 @@ finished the puzzles and plan to you should come back later.
 
 ## Running
 
+### Solving a Puzzle
+
 Paste your input for a given puzzle (you get your own on
 [Advent of Code](https://adventofcode.com/)) into a file named `input.txt` in
 the root directory of the puzzel you want to solve and execute the `solve.py`.
@@ -29,10 +31,25 @@ For example:
 # Get input and copy to clipboard
 
 git clone https://github.com/oliverwiegers/advent_of_code.git
-cd advent_of_code/2022/day_01/puzzle_01/
+cd advent_of_code/2022/day_01/
 
 clippaste > input.txt
-python3 solve.py
+make solve
+```
+
+### Testing
+
+```
+cd advent_of_code/2022/day_04/
+make test
+```
+
+### Lintig / Formatting
+
+```
+cd advent_of_code/2022/day_04/
+make lint
+make format
 ```
 
 ## Thanks
