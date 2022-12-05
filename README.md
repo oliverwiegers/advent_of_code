@@ -16,6 +16,7 @@ finished the puzzles and plan to you should come back later.
 - [Day 02](./2022/day_02)
 - [Day 03](./2022/day_03)
 - [Day 04](./2022/day_04)
+- [Day 05](./2022/day_05)
 
 ## Running
 
