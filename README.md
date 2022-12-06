@@ -54,6 +54,10 @@ make lint
 make format
 ```
 
+## Even More Fun Than The Puzzles
+
+The AoC [Subreddit](https://www.reddit.com/r/adventofcode/) is hilarious!
+
 ## Thanks
 
 Huge thanks to [Eric Wastl](https://github.com/topaz) for creating and
