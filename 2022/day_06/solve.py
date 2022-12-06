@@ -3,11 +3,11 @@
 
 def find_index(transmission, marker_size):
     marker = []
-    for i,char in enumerate([*transmission], 1):
+    for i, char in enumerate([*transmission], 1):
         if char not in marker:
             marker.append(char)
         else:
-            marker = marker[marker.index(char)+1:]
+            marker = marker[marker.index(char) + 1 :]
             marker.append(char)
         if len(marker) == marker_size:
             return i
