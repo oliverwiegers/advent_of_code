@@ -7,10 +7,10 @@ def puzzle01(path):
     XXX
     """
     with open(path, encoding="utf-8") as file:
-        result = 0
-        lines = file.read().split("\n\n")
+        #lines = file.read().split("\n\n")
         #lines = file.read().splitlines()
         #lines = list(filter(None, file.read().splitlines())) 
+        result = 0
         for line in lines:
 
         return result
@@ -22,9 +22,12 @@ def puzzle01(path):
 #    XXX
 #    """
 #    with open(path, encoding="utf-8") as file:
+#        #lines = file.read().split("\n\n")
+#        #lines = file.read().splitlines()
+#        #lines = list(filter(None, file.read().splitlines())) 
 #        result = 0
-#        lines = file.read().splitlines()
 #        for line in lines:
+#            pass
 #
 #        return result
 

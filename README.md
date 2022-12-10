@@ -20,6 +20,8 @@ finished the puzzles and plan to you should come back later.
 - [Day 06](./2022/day_06)
 - Day 07: TODO
 - [Day 08](./2022/day_08)
+- Day 09: TODO
+- [Day 10](./2022/day_10)
 
 ## Running
 
