@@ -10,10 +10,10 @@ def puzzle01(path):
         #lines = file.read().split("\n\n")
         #lines = file.read().splitlines()
         #lines = list(filter(None, file.read().splitlines())) 
-        result = 0
-        for line in lines:
+    result = 0
+    for line in lines:
 
-        return result
+    return result
 
 
 #def puzzle02(path):
@@ -25,11 +25,11 @@ def puzzle01(path):
 #        #lines = file.read().split("\n\n")
 #        #lines = file.read().splitlines()
 #        #lines = list(filter(None, file.read().splitlines())) 
-#        result = 0
-#        for line in lines:
-#            pass
+#    result = 0
+#    for line in lines:
+#        pass
 #
-#        return result
+#    return result
 
 
 def main():

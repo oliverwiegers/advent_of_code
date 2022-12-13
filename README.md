@@ -22,6 +22,9 @@ finished the puzzles and plan to you should come back later.
 - [Day 08](./2022/day_08)
 - Day 09: TODO
 - [Day 10](./2022/day_10)
+- Day 11: TODO
+- [Day 12](./2022/day_12)
+- Day 13: TODO
 
 ## Running
 
@@ -73,3 +76,4 @@ maintaining Advent of Code :smiley:
 - [AoC 2022 auto solver](https://github.com/ostwilkens/aoc2022)
 - [Going Fast In Advent Of Code](https://kevinyap.ca/2019/12/going-fast-in-advent-of-code/)
 - [Awesome Advent Of Code](https://github.com/Bogdanp/awesome-advent-of-code)
+- [Topaz](https://github.com/topaz) - Creator of AoC
